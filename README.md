@@ -43,6 +43,17 @@ the experimental setup, results, and discussions.
 # Resnet-34
 ![Screenshot 2024-05-19 at 3 00 26 AM](https://github.com/MahmudHasanMenon/ARBITRARY-STYLE-TRANSFER/assets/29507500/4c4f5403-e832-4e6a-a09a-0d45e3ea4300)
 
+# Conclusion
+We explored arbitrary style transfer using machine learning, particularly Convolutional Neural
+Networks (CNNs) such as VGG-19 and ResNet-34. The focus has been on achieving nuanced
+and flexible style transfer while minimizing distortion. The Gram matrix, loss calculations, and
+weight adjustments played crucial roles in the proposed model, offering a detailed and adaptable
+approach. The comparative analysis of VGG-19 and ResNet-34 highlighted their strengths and
+limitations, aiding practitioners in choosing suitable architectures.
 
+# Contributors
+1. Md Solehin Islam
+2. M Mahmud Hasan
+3. Morteza Mogharrab
 
 
