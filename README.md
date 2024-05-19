@@ -10,3 +10,29 @@ is explored, and the paper details its implementation, including Gram matrix uti
 Weights Calculations, and outcomes. The results highlight advancements in arbitrary style transfer,
 addressing challenges in pre-existing models and suggesting future avenues for deep learning and
 image processing exploration.
+
+# Introduction
+This report delves into the realm of computer vision and image processing, with a primary focus on
+achieving nuanced and arbitrary style transfer through machine learning. The goal is to seamlessly
+apply the visual style of one image to another while preserving its inherent content. The research
+involves dataset collection, preprocessing, and the development of a Convolutional Neural Network
+(CNN)-based algorithm for universal style transfer.
+The study begins by leveraging the VGG-19 pre-trained model on ImageNet, utilizing the Gram
+matrix for style blending. To address limitations, the exploration extends to the ResNet-34 model,
+providing insights into its implementation, including Gram matrix utilization, Loss and Weights
+Calculations, and outcomes.
+
+# Proposing Model
+This section delves into the use of VGG-19 and ResNet-34 convolutional neural network architecture.
+Originally designed for image classification, these models are repurposed to convey style,
+focusing on their design principles. This section compares VGG-19 and ResNet-34 considering
+factors such as simplicity and computational efficiency. The Gram matrix has been highlighted for
+its critical role in robust feature extraction, capturing correlations in essential feature maps for style
+translation. This method introduces a different style transfer approach with adjustable stylization
+levels through layered style weights. The iterative process of image updating and loss calculations
+is explained. This section lays the foundation for testing, emphasizing architecture selection, warm
+matrix, and innovative weight tuning for different style outputs. The following sections will review
+the experimental setup, results, and discussions.
+
+# Results
+# VGG-19
