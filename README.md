@@ -36,3 +36,13 @@ the experimental setup, results, and discussions.
 
 # Results
 # VGG-19
+![Screenshot 2024-05-19 at 3 00 07 AM](https://github.com/MahmudHasanMenon/ARBITRARY-STYLE-TRANSFER/assets/29507500/f11ebeec-3750-4dff-bba6-46ec953ccffb)
+
+![Screenshot 2024-05-19 at 3 00 18 AM](https://github.com/MahmudHasanMenon/ARBITRARY-STYLE-TRANSFER/assets/29507500/0c5d8a34-9fae-48d1-8f5f-7460bcf2864a)
+
+# Resnet-34
+![Screenshot 2024-05-19 at 3 00 26 AM](https://github.com/MahmudHasanMenon/ARBITRARY-STYLE-TRANSFER/assets/29507500/4c4f5403-e832-4e6a-a09a-0d45e3ea4300)
+
+
+
+
