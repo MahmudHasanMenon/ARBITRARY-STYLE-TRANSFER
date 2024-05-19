@@ -34,6 +34,11 @@ is explained. This section lays the foundation for testing, emphasizing architec
 matrix, and innovative weight tuning for different style outputs. The following sections will review
 the experimental setup, results, and discussions.
 
+# Dataset
+1. Preprocessed COCO dataset
+2. Apply machine learning method on COCO training dataset
+3. Take some individual photo to test the style transfer
+
 # Results
 # VGG-19
 ![Screenshot 2024-05-19 at 3 00 07 AM](https://github.com/MahmudHasanMenon/ARBITRARY-STYLE-TRANSFER/assets/29507500/f11ebeec-3750-4dff-bba6-46ec953ccffb)
